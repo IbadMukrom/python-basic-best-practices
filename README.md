@@ -1,1 +1,1 @@
-# repo to recall the basic of py  
+# repo to recall the basic of my py :)  
